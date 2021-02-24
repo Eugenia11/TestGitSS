@@ -1,0 +1,10 @@
+D:\Университет\SS\LR2\Git\Git\bin\Debug\Git.exe.config
+D:\Университет\SS\LR2\Git\Git\bin\Debug\Git.exe
+D:\Университет\SS\LR2\Git\Git\bin\Debug\Git.pdb
+D:\Университет\SS\LR2\Git\Git\obj\Debug\Git.csprojAssemblyReference.cache
+D:\Университет\SS\LR2\Git\Git\obj\Debug\Git.Form1.resources
+D:\Университет\SS\LR2\Git\Git\obj\Debug\Git.Properties.Resources.resources
+D:\Университет\SS\LR2\Git\Git\obj\Debug\Git.csproj.GenerateResource.cache
+D:\Университет\SS\LR2\Git\Git\obj\Debug\Git.csproj.CoreCompileInputs.cache
+D:\Университет\SS\LR2\Git\Git\obj\Debug\Git.exe
+D:\Университет\SS\LR2\Git\Git\obj\Debug\Git.pdb
